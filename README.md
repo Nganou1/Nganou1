@@ -1,7 +1,9 @@
 <p align="center"><img src="assets/banner.png" alt="Franck Nankeng · Chef de projet SI, Data & IA" width="100%"></p>
+Ingénieur en informatique (3iL Limoges), je travaille à la croisée de la donnée, de l’IA et du métier.
 
-Ingénieur en informatique (3iL Limoges), je pilote des projets data et IA de bout en bout : identifier les cas d'usage avec les métiers, les prioriser, construire la roadmap, puis livrer avec les équipes techniques jusqu'à l'adoption.
+J’aime partir d’une question concrète et aller jusqu’à la réponse utile. Je comprends le besoin avec les équipes métier, j’explore et je fiabilise les données, je les analyse en SQL et en Python, et je construis des modèles de machine learning ou des solutions d’IA générative (LLM, RAG, agents). Ensuite, je restitue les résultats de façon claire pour que les décideurs puissent agir, et je pilote le projet avec les équipes techniques jusqu’à l’adoption.
 
+Selon le projet, je suis analyste, data scientist, business analyst ou chef de projet. Le fil conducteur reste le même : transformer la donnée en décisions et en produits qui servent vraiment.
 Disponible immédiatement · CDI, CDD ou mission en freelance · [LinkedIn](https://www.linkedin.com/in/franck-nankeng-51b43b297/)
 
 <p>
